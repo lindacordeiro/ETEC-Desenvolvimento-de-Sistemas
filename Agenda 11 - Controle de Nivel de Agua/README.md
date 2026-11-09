@@ -6,8 +6,6 @@ Esse sistema será executado no terminal e tem como objetivo exibir mensagens de
 
 Para tornar a visualização mais clara, será utilizada a biblioteca colorama, permitindo destacar cada situação com uma cor específica. <br>
 
-O programa utiliza a biblioteca colorama para fazer a representação de cores <br>
-
 ## Condições:
 ## 💧 Níveis do Reservatório
 
